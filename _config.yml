@@ -15,9 +15,9 @@ baseurl: /randomnotes
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Hans Montañana
+  url:               
+  email:             
 
 # Gems
 plugins:
